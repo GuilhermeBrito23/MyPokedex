@@ -1,0 +1,14 @@
+C:\Users\Brito\Desktop\Projetos\Pokedex\Pokedex\bin\Debug\Pokedex.exe.config
+C:\Users\Brito\Desktop\Projetos\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+C:\Users\Brito\Desktop\Projetos\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+C:\Users\Brito\Desktop\Projetos\Pokedex\Pokedex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Brito\Desktop\Projetos\Pokedex\Pokedex\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Brito\Desktop\Projetos\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.AssemblyReference.cache
+C:\Users\Brito\Desktop\Projetos\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.SuggestedBindingRedirects.cache
+C:\Users\Brito\Desktop\Projetos\Pokedex\Pokedex\obj\Debug\Pokedex.Form1.resources
+C:\Users\Brito\Desktop\Projetos\Pokedex\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+C:\Users\Brito\Desktop\Projetos\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.cache
+C:\Users\Brito\Desktop\Projetos\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.CoreCompileInputs.cache
+C:\Users\Brito\Desktop\Projetos\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.CopyComplete
+C:\Users\Brito\Desktop\Projetos\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+C:\Users\Brito\Desktop\Projetos\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
